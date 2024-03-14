@@ -699,7 +699,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:75%;
+    width:70%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -726,7 +726,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:65%;
+    width:60%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -752,7 +752,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:70%;
+    width:75%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -764,7 +764,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:70%;
+    width:75%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #c70039;
