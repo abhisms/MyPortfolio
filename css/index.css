@@ -717,7 +717,7 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.adobe-progress{
+.python{
     position: absolute;
     top:10%;
     left:1%;
@@ -726,11 +726,11 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:60%;
+    width:70%;
     border-radius: 10px;
     background: #c70039;
 }
-.php-progress{
+.node{
     position: absolute;
     top:10%;
     left:1%;
@@ -738,12 +738,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:80%;
+    width:55%;
     border-radius: 10px;
     background: #c70039;
     transition: all .4s ease;
 }
-.jquery-progress{
+.sql{
     position: absolute;
     top:10%;
     left:1%;
@@ -756,7 +756,7 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.seo-progress{
+.cplus{
     position: absolute;
     top:10%;
     left:1%;
@@ -764,7 +764,33 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:75%;
+    width:65%;
+    border-radius: 10px;
+    transition: all .4s ease;
+    background: #c70039;
+}
+.mongo{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:70%;
+    border-radius: 10px;
+    transition: all .4s ease;
+    background: #c70039;
+}
+.react{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:50%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #c70039;
